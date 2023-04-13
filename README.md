@@ -8,13 +8,13 @@
 -------------------------------
 <strong>(ES)</strong>
 
-El análisis de datos para medir el abandono de una empresa implica examinar datos de rotación de empleados para entender las causas y tendencias del abandono. Puede involucrarn el uso de estadísticas descriptivas, visualización de datos y modelos de machine learning. Este análisis ayuda a retener y desarrollar el talento, impactando en el éxito empresarial.
+El análisis de datos para medir el abandono de una empresa implica examinar datos de rotación de empleados para entender las causas y tendencias del abandono. Este análisis ayuda a retener y desarrollar el talento, impactando en el éxito empresarial.
 
 
 
 <strong>(EN)</strong>
 
-Data analysis to measure employee turnover in a company involves examining data related to employee churn to understand causes and trends. It may involve the use of descriptive statistics, data visualization, and machine learning models. This analysis helps retain and develop talent, impacting business success.
+Data analysis to measure employee turnover in a company involves examining data related to employee churn to understand causes and trends. This analysis helps retain and develop talent, impacting business success.
 
 
 --------------------------------
@@ -23,18 +23,28 @@ Data analysis to measure employee turnover in a company involves examining data 
 
 What leads an employee to leave? How much does this cost the company? Was it perhaps due to a poor work environment? Did they not have a good salary?
 
-Data: 
- <img src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/DF.png"</>
+<p align="center">
 
-¿El estado civil te permite cambiar libremente? / Can marital status be changed freely?
- <img src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/fig_1.png"</>
- 
-¿Y realizar horas extras? / Can overtime be performed freely?
- <img src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/fig_2.png"</>
- 
-¿Podría dirección implementar alguna solución? / Could management implement a solution?
 
- <img src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/PB_RRHH.png"</>
+<img src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/DF.png"/>
+ 
+ 
+<strong>¿El estado civil te permite cambiar libremente? / Can marital status be changed freely?</strong>
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/fig_1.png">
+</p>
+
+
+<strong>¿Y realizar horas extras? / Can overtime be performed freely?</strong>
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/fig_2.png">
+</p>
+
+ 
+<strong>¿Podría dirección implementar alguna solución? / Could management implement a solution?</strong>
+<p align="center" width="100%">
+    <img width="80%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/PB_RRHH.png">
+</p>
  --------------------------------
  
  # Machine Learning - DecisionTree
