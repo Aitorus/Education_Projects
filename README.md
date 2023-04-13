@@ -23,6 +23,22 @@ Data analysis to measure employee turnover in a company involves examining data 
 
 What leads an employee to leave? How much does this cost the company? Was it perhaps due to a poor work environment? Did they not have a good salary?
 
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/USA.png">
+</p>
+
+(ES) Un artículo del Center for American Progress, que cita 11 trabajos de investigación publicados durante un período de 15 años, determinó que el costo económico promedio para una empresa de perder un empleado  es de 21,4% del costo de un año de salario. (Page2 - Figure1)
+
+(EN) An article from the Center for American Progress, citing 11 research studies published over a 15-year period, determined that the average economic cost for a company to lose an employee is 21,4% of the cost of one year"s salary.(Page2 - Figure1)
+
+[PDF American Progress](https://www.americanprogress.org/wp-content/uploads/2012/11/CostofTurnover.pdf)
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/fig_USA.png">
+</p>
+
+
 <p align="center">
 
 
