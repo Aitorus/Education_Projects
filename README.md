@@ -78,4 +78,4 @@ DATA:
 5. Flexibilidad / Flexibility
 
 
-# ❗ Devuelveme tú feedback por @.
+# ❗Devuélveme tu feedback  por @.
