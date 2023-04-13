@@ -1,3 +1,3 @@
 # RRHH
 
-/RRHH_DECISION_TREE/img/RRHH.png
+![](https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/RRHH.png)
