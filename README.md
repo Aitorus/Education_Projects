@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/RRHH.png" />
 </p>
@@ -75,3 +76,6 @@ DATA:
 3. Identificación de patrones / Pattern identification
 4. Escabilidad / Scalability
 5. Flexibilidad / Flexibility
+
+
+# ❗ Devuelveme tú feedback por @.
