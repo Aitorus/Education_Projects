@@ -61,7 +61,7 @@ DATA:
 </p>
 
  
-<strong>¿Podría dirección implementar alguna solución? / Could management implement a solution?</strong>
+<strong>¿El estado civil te proporciona la libertad de cambiar fácilmente? / Does marital status allow you to change freely?</strong>
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/PB_RRHH.png">
 </p>
