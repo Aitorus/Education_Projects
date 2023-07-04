@@ -48,7 +48,7 @@ An article from the Center for American Progress, citing 11 research studies pub
 
 
 </em></p>
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="20%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/1.jpg">
 </p>
 
@@ -69,7 +69,7 @@ An article from the Center for American Progress, citing 11 research studies pub
 
 
 </em></p>
-<p align="left" width="100%">
+<p align="center" width="100%">
     <img width="20%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/2.jpg">
 </p>
 
