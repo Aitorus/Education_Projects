@@ -75,4 +75,4 @@ An article from the Center for American Progress, citing 11 research studies pub
     <img width="20%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/2.jpg">
 </p>
 
-# ❗Devuélveme tu feedback  por @ (cbmguerra@gmail.com).
+# ❗Devuélveme tu feedback  por @.
