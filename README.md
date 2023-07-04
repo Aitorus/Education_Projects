@@ -6,8 +6,20 @@
 
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/15m8CxLZpOWYAiISRCBUH_VDn4XibjHF9/view?usp=sharing" />
+  <img src= />
 </p>
+<!DOCTYPE html>
+<html>
+<body>
+  
+  <iframe src="https://drive.google.com/file/d/15m8CxLZpOWYAiISRCBUH_VDn4XibjHF9/view?usp=sharing" ></iframe>
+  
+  <!--aloow full screen add tag -->
+  
+<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
+
+</body>
+</html>
 
 -------------------------------
 <strong>(ES)/ (EN)</strong>
