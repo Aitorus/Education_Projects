@@ -43,28 +43,15 @@ An article from the Center for American Progress, citing 11 research studies pub
 <p align="center">
 
 -------------------------
+# Exploración 
+<p><em>
 
-DATA:
 
-<img src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/DF.png"/>
- 
- 
-<strong>¿El estado civil te permite cambiar libremente? / Can marital status be changed freely?</strong>
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/fig_1.png">
+</em></p>
+<p align="left" width="100%">
+    <img width="20%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/1.jpg">
 </p>
 
-
-<strong>¿Y realizar horas extras? / Can overtime be performed freely?</strong>
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/fig_2.png">
-</p>
-
- 
-<strong>¿El estado civil te proporciona la libertad de cambiar fácilmente? / Does marital status allow you to change freely?</strong>
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/PB_RRHH.png">
-</p>
  --------------------------------
  
  # Machine Learning - DecisionTree
@@ -77,5 +64,13 @@ DATA:
 4. Escabilidad / Scalability
 5. Flexibilidad / Flexibility
 
+# Report 
+<p><em>
 
-# ❗Devuélveme tu feedback  por @.
+
+</em></p>
+<p align="left" width="100%">
+    <img width="20%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/2.jpg">
+</p>
+
+# ❗Devuélveme tu feedback  por @ (cbmguerra@gmail.com).
