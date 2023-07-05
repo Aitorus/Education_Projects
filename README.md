@@ -45,7 +45,7 @@ An article from the Center for American Progress, citing 11 research studies pub
 
 </em></p>
 <p align="center" width="100%">
-    <img width="20%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/1.jpg">
+    <img width="80%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/1.jpg">
 </p>
 
  --------------------------------
@@ -66,7 +66,7 @@ An article from the Center for American Progress, citing 11 research studies pub
 
 </em></p>
 <p align="center" width="100%">
-    <img width="20%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/2.jpg">
+    <img width="80%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/2.jpg">
 </p>
 
 # ❗Devuélveme tu feedback  por @.
