@@ -37,12 +37,6 @@ An article from the Center for American Progress, citing 11 research studies pub
 
 [PDF American Progress](https://www.americanprogress.org/wp-content/uploads/2012/11/CostofTurnover.pdf)
 
-<p align="left" width="100%">
-    <img width="20%" src="https://github.com/Aitorus/RRHH_DECISION_TREE/blob/main/img/fig_USA.png">
-</p>
-
-
-<p align="center">
 
 -------------------------
 # Exploración 
